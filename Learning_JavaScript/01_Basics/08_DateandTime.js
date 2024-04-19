@@ -1,5 +1,5 @@
 let myDate = new Date()
-//  
+
 
   let myCreatedDate = new Date("01-14-2024")
 
@@ -16,3 +16,4 @@ let myDate = new Date()
   console.log(newDate);
   console.log(newDate.getMonth());
   console.log(newDate.getDate());
+ 
